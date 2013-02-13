@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://liorsion.github.com/sionation/sitemap.xml 
