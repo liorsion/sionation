@@ -2,14 +2,10 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://liorsion.github.com/sionation/blog/archives/</loc>
-        <lastmod>2013-02-13T08:38:23+02:00</lastmod>
+        <lastmod>2013-02-13T11:30:39+02:00</lastmod>
     </url>
     <url>
         <loc>http://liorsion.github.com/sionation/</loc>
-        <lastmod>2013-02-13T08:38:23+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://liorsion.github.com/sionation/robots.txt</loc>
-        <lastmod>2013-02-13T08:38:23+02:00</lastmod>
+        <lastmod>2013-02-13T11:30:39+02:00</lastmod>
     </url>
 </urlset>

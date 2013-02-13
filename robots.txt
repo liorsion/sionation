@@ -1,4 +1,4 @@
-User-agent: *
-Disallow: 
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
 
-Sitemap: http://liorsion.github.com/sionation/sitemap.xml 
+User-agent: *
