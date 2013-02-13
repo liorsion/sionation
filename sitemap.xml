@@ -1,11 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://liorsion.github.com/sionation/blog/archives/</loc>
-        <lastmod>2013-02-13T11:30:39+02:00</lastmod>
+        <loc>http://sionation.com/2013/02/13/distributed-team/</loc>
+        <lastmod>2013-02-13T12:48:26+02:00</lastmod>
     </url>
     <url>
-        <loc>http://liorsion.github.com/sionation/</loc>
-        <lastmod>2013-02-13T11:30:39+02:00</lastmod>
+        <loc>http://sionation.com/2013/02/13/awesome-teams/</loc>
+        <lastmod>2013-02-13T12:39:43+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sionation.com/2013/02/13/build-your-company-correctly-from-day-one/</loc>
+        <lastmod>2013-02-13T12:40:12+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sionation.com/about-us/</loc>
+        <lastmod>2013-02-13T12:01:36+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sionation.com/blog/archives/</loc>
+        <lastmod>2013-02-13T12:48:26+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sionation.com/</loc>
+        <lastmod>2013-02-13T12:48:26+02:00</lastmod>
     </url>
 </urlset>

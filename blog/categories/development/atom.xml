@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: development | Sionation]]></title>
+  <link href="http://sionation.com/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://sionation.com/"/>
+  <updated>2013-02-13T12:50:16+02:00</updated>
+  <id>http://sionation.com/</id>
+  <author>
+    <name><![CDATA[Sionation]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[distributed team]]></title>
+    <link href="http://sionation.com/2013/02/13/distributed-team/"/>
+    <updated>2013-02-13T11:59:00+02:00</updated>
+    <id>http://sionation.com/2013/02/13/distributed-team</id>
+    <content type="html"><![CDATA[<p>A distruted team can be viewed as the necessary evil or the way of the future, or both, depending on where you are coming from. Essencially, for different reasons that we'll discuss later in this post, you sometimes find yourself in need of hiring people from across the globe, and working in a fast, dynamic, highly professional enviornment with a distributed team just complicated things farther.. or does is?</p>
+
+<!-- more -->
+
+
+<h2>what is a distrubuted team?</h2>
+
+<p>Wikipedia (that also calls this <a href="http://en.wikipedia.org/wiki/Virtual_team">virtual team</a>) defines a distributed team as</p>
+
+<blockquote><p>a group of individuals who work across time, space and organizational boundaries with links strengthened by webs of communication technology</p></blockquote>
+
+<p>A while my friend @kesor tells me to never read the first line of wikipedia, I often find this first line to be summerizing the content wonderfully. Notice that there's no mentioning of the fact that the team is a development team, and that being distributed means organizational boundaries as well as space and time boundries.</p>
+
+<p>Let's discuss those quialities.</p>
+
+<h3>Space</h3>
+
+<h3>Time</h3>
+
+<h3>Organizational boundaries</h3>
+
+<h2>when do you need to go distributed?</h2>
+
+<h2>pros and cons</h2>
+
+<h2>how do you manage a distributed team?</h2>
+
+<h2>tools of the trade</h2>
+]]></content>
+  </entry>
+  
+</feed>
