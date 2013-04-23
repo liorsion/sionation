@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: culture | Sionation]]></title>
-  <link href="http://sionation.com/blog/categories/culture/atom.xml" rel="self"/>
-  <link href="http://sionation.com/"/>
-  <updated>2013-02-13T12:50:16+02:00</updated>
-  <id>http://sionation.com/</id>
+  <title><![CDATA[Category: culture | runningcode.io]]></title>
+  <link href="http://runningcode.io/blog/categories/culture/atom.xml" rel="self"/>
+  <link href="http://runningcode.io/"/>
+  <updated>2013-04-23T20:03:16+03:00</updated>
+  <id>http://runningcode.io/</id>
   <author>
-    <name><![CDATA[Sionation]]></name>
+    <name><![CDATA[runningcode.io]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[distributed team]]></title>
-    <link href="http://sionation.com/2013/02/13/distributed-team/"/>
+    <link href="http://runningcode.io/2013/02/13/distributed-team/"/>
     <updated>2013-02-13T11:59:00+02:00</updated>
-    <id>http://sionation.com/2013/02/13/distributed-team</id>
+    <id>http://runningcode.io/2013/02/13/distributed-team</id>
     <content type="html"><![CDATA[<p>A distruted team can be viewed as the necessary evil or the way of the future, or both, depending on where you are coming from. Essencially, for different reasons that we'll discuss later in this post, you sometimes find yourself in need of hiring people from across the globe, and working in a fast, dynamic, highly professional enviornment with a distributed team just complicated things farther.. or does is?</p>
 
 <!-- more -->
